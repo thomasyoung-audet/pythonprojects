@@ -1,3 +1,3 @@
 # pythonprojects
 
-This repository holds the phython projects witten in 2016
+This repository holds the phython projects written in 2016
